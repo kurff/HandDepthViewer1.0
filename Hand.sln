@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hand", "Hand\Hand.vcxproj", "{4A6C31E4-2513-401B-9230-8EF717EA46DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A6C31E4-2513-401B-9230-8EF717EA46DC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4A6C31E4-2513-401B-9230-8EF717EA46DC}.Debug|Win32.Build.0 = Debug|Win32
+		{4A6C31E4-2513-401B-9230-8EF717EA46DC}.Release|Win32.ActiveCfg = Release|Win32
+		{4A6C31E4-2513-401B-9230-8EF717EA46DC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
